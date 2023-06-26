@@ -1,0 +1,35 @@
+{
+  "name": "dark-theme-switch",
+  "version": "1.0.0",
+  "description": "a concept layout for dark themes utilizing material-ui dashboard",
+  "keywords": [
+    "dark",
+    "dark-theme",
+    "material-ui"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.12.4",
+    "@material-ui/icons": "4.9.1",
+    "clsx": "1.1.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-scripts": "3.0.1",
+    "recharts": "1.8.5"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
